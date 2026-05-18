@@ -1,11 +1,8 @@
 # hummingbird-datacollec-pipe
-Simulation-based quadrotor flight data collection pipeline. Generates CSV datasets from RotorS/Gazebo using diverse trajectory primitives, yaw modes, and wind disturbances.
-
-# quad-koopman-datapipe
 
 **Simulation-based quadrotor flight data collection pipeline for structured deep Koopman dynamics modeling.**
 
-Generates NeuroBEM-compatible CSV datasets from RotorS/Gazebo simulations of the Hummingbird quadrotor, with diverse trajectory primitives, four yaw modes, and optional wind disturbances. Designed for training Koopman operator models of quadrotor dynamics.
+Generates CSV datasets from RotorS/Gazebo simulations of the Hummingbird quadrotor, with diverse trajectory primitives, four yaw modes, and optional wind disturbances. Designed for training Koopman operator models of quadrotor dynamics.
 
 ---
 
